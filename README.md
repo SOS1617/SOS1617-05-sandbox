@@ -1,4 +1,3 @@
-# SOS1617-05-sandbox
+#SOS1617-05
 
-Primera edición.
-Hola
+Repositorio del grupo 05.
